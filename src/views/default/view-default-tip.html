@@ -52,7 +52,7 @@
       }
 
       _handleTip(e) {
-        if (e.detail.amount >= 100) {
+        if (e.detail.amount >= 1) {
           this.$.toast.text =
               `${e.detail.user.username} tipped ${e.detail.amount} tokens!`;
           this.$.toast.open();
