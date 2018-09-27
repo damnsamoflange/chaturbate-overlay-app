@@ -30,6 +30,8 @@
     "paper-tooltip": "PolymerElements/paper-tooltip#^2.0.0",
     "web-animations-js": "^2.2.5",
     "chaturbate-goal": "https://github.com/paulallen87/polymer-chaturbate-goal.git"
+    "confetti": "https://github.com/wesleycho/confetti.js"
+    "fireworks": "https://github.com/tswaters/fireworks.git"
   },
   "resolutions": {
     "polymer": "^2.0.0-rc.3"
