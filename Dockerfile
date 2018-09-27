@@ -1,4 +1,4 @@
-FROM mhart/alpine-node:8.1
+FROM mhart/alpine-node:8.12
 MAINTAINER Paul Allen paulallen87555@gmail.com
 USER root
 WORKDIR /
