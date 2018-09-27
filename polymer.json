@@ -10,7 +10,9 @@
     "src/views/default/view-default-info.html",
     "src/views/default/view-default-panel.html",
     "src/views/default/view-default-subject.html",
-    "src/views/default/view-default-tip.html"
+    "src/views/default/view-default-tip.html",
+    "src/views/default/view-confetti.html",
+    "src/views/default/view-fireworks.html"
   ],
   "sources": [
     "src/**/*",
